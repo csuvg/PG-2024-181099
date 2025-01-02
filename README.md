@@ -55,4 +55,10 @@ Antes de iniciar, asegúrate de contar con los siguientes requisitos previos:
 
 ### **Instalar Dependencias**
 
-- Si el proyecto utiliza paquetes adicionales, asegúrate de que Unity descargue las dependencias automáticamente al abrir el proyecto.
+Unity intentará descargar automáticamente las dependencias al abrir el proyecto. Si esto no ocurre, asegúrate de instalar manualmente las siguientes dependencias clave para el desarrollo VR:
+
+---
+
+- ##### **XR Plugin Management**
+
+- ##### **XR Interaction Toolkit**
