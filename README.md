@@ -62,3 +62,15 @@ Unity intentará descargar automáticamente las dependencias al abrir el proyect
 - ##### **XR Plugin Management**
 
 - ##### **XR Interaction Toolkit**
+
+---
+
+### **Demo**
+- Una demostración visual del proyecto está disponible en el repositorio.  
+  [Accede a la demo aquí](./demo/demo.mp4)
+
+---
+
+### **Informe Final**
+- El informe final del proyecto de graduación está disponible en formato PDF en la carpeta `/docs/`.  
+  [Descargar informe final](./docs/informe.pdf)
