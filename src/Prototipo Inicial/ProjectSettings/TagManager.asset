@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Left Hand
+  - Right Hand
+  - Meteor
+  - Sello
+  - Zapato
+  - Dona
+  - Ground
+  - Wall
+  - vasijaA
+  - LITICA
+  - SAS-5A93
+  - SAS2159FB2019
+  - SAS-161-2
+  - SAS-5A-9-3_JN_2022_2_G3D
+  - SAS-5A-4-9_JN_2022_G3D
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - NoRayInteractable
+  - RayInteractor
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
